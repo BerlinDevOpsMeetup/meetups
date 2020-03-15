@@ -1,0 +1,32 @@
+Details
+The next Berlin DevOps meetup will be kindly hosted by solarisbank AG nearby Alexanderplatz (Anna-Louisa-Karsch-Straße 2, 10178 Berlin)
+
+Please arrive before 6:50pm.
+
+1.) Resiliency and Disaster Recovery with Kafka: Challenges Running Multi-Region Kafka Clusters (Engin Yöyen)
+High availability, resilience and scalability have become the standard when building user-facing applications. Cloud computing has been a contributing factor to that.
+Previously, having multiple data-centers was a major up-front capital investment — both skill-wise and in terms of hardware. Today, having a disaster recovery plan requires less effort and no up-front investment, thanks to cloud computing. As a result, many consumer-facing applications are now set up in a geographically dispersed fashion. In case of major failure, users are not affected, and latency is reduced for users across the globe.
+The Motors Vertical team is part of the eBay Classifieds Group (eCG). As a global organization, we run our software in multi-region (multi-datacenter) setup, where regions are geographically dispersed. From time to time, we do failover exercises where we take down a whole region to verify how systems respond to the outage. We also have automatic failover, so if services have problems in one region, we can divert all traffic to another region. Many of the technologies we use enable us to run applications in a multi-region setup very efficiently and easily, while a small set of technologies makes that difficult.
+One of the most critical components in our infrastructure is Apache Kafka®. — But as important as it is in our architecture, it’s not yet that easy to run a multi-cluster active/active Kafka setup.
+Although the recent release of Kafka 2.4 has greatly improved support for multiple Kafka clusters with MirrorMaker 2.0, depending on your use cases it could still give you a headache.
+In this talk, I will outline a technical scenario that requires ordered events, highlight several challenges, and present possible solutions for running a multi-region Kafka setup.
+
+2.) Fishbowl discussion: How to be DevOps in slow IT environments?
+Struggling in times of Bi-Modal IT environments, where waterfall models ride on top of agile projects wheels, creating irritating things like: we have to wait for this server for 4 month. How can we be DevOps when the environment is constantly holding us back and slowing us down? How do we deal with it?
+
+3.) The Shells of Others (Isaac Wilder)
+Talk primarily consists of looking at the value of empathy in the context of technology practice. It makes the argument that the underlying purpose/end of DevOps transformation is to increase the actual *understanding* between different members of an engineering team. It looks at how this simple concept can be applied to engineering and tooling decisions, as well as practices and workflows.
+
+4.) Engineering Values and Principles at ImmoScout24 (Aaron Winn)
+At ImmoScout we introduced values and principles to our engineering group. We did this to better understand the "why" of our ways of working. These were put in place to be more predictable in our actions across the entire Builders Org.
+
+Agenda:
+18:30 Door open
+18:55 Welcome, host introduction
+19:00 Talk: Resiliency and Disaster Recovery with Kafka
+19:30 Fishbowl discussion: How to be DevOps in slow IT environments?
+20:00 Break w/ Food&Drinks
+20:20 The Shells of Others
+20:30 Engineering Values and Principles at ImmoScout24
+20:55 Drinks & discussions
+21:30 End (door closed)

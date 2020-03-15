@@ -1,0 +1,29 @@
+Details
+The next Berlin DevOps meetup will be kindly hosted by OLX on the 16th floor at Alexanderplatz!
+
+Please arrive before 6:45pm.
+
+1.) A year wrestling with Terraform (Amir Fatemi)
+Infra as code tooling for creating cloud native apps is getting more sophisticated each year and sometimes overwhelming. Here is my one year experience with Terraform as platform engineer and how it saved my life and sometimes drove me crazy!
+
+2.) Fishbowl discussion: Got root?
+Should all team members have admin-access to the resources (VMs, databases, load balancers, etc.), they are running their application on?
+Or should access be strictly limited? Join the discussion.
+
+3.) Lightning Talk: Continuous Improvement in CI-Pipelines with dynamic quality gates (Sebastian Striebig)
+
+4.) Open Space: Let's Define Culture (Yair Etziony)
+We all agree that culture is at least half of the DevOps movement, but what does it really mean? Let's have an open discussion about it!
+
+Agenda:
+18:30 Door open
+18:45 Welcome, host introduction
+18:50 Talk: A year wrestling with Terraform
+19:25 Fishbowl discussion: Give root access to everyone?
+20:00 Break w/ Food&Drinks
+20:20 Lightning Talk: CI pipelines with dynamic quality gates
+20:30 Open Space: Let's Define Culture
+21:00 Drinks & discussions
+21:30 End
+
+
